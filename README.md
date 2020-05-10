@@ -1,2 +1,2 @@
 # Resume
-Resume of Shantanu Ghosh
+Long and short Resume of Shantanu Ghosh
